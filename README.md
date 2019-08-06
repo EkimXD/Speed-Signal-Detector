@@ -1,2 +1,2 @@
 # Speed-Signal-Detector
-This is a Speed Signal Detector Project developed for Artificial Inteligent class, la motivacion de este proyecto es proveer a los autos de un detector de senales de velocidad en la carretera y se alerte si se esta exediendo el limite establecido.
+This is a Speed Signal Detector Project developed for Artificial Inteligent class, the motivation of this project is to provide cars with a speed signal detector on the road and be alert if the established limit is being exceeded.
