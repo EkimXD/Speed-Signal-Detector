@@ -11,4 +11,4 @@ This is a Speed Signal Detector Project developed for Artificial Inteligent clas
 ## Model
 We had many speed signals images, we use haar cascade for training the model and we use MNIST database for recognice numbers.
 ## Car
-![car](./Car Implementation.jpeg)
+![car](Car%20Implementation.jpeg)
